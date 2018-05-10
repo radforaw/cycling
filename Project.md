@@ -6,7 +6,7 @@ As part of it's transport policy, Birmingham City Council aims to increase the a
 
 Automated counting of cyclists can be carried out in a number of different ways, by use of inductive loops, piezo sensors, radar etc. In birmingham it is mostly carried out using inductive loops, using the equipment below.
 
-!(IMG_1095.JPG)
+![alt-text](https://github.com/radforaw/cycling/blob/master/IMG_1095.JPG "A Loop Based Cycle Counter")
 
 ## Project Aims
 
