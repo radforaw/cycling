@@ -24,6 +24,8 @@ The unit is powered by 2 battery's (a main battery and a backup). These are conn
 
 ![Counter Picture](https://github.com/radforaw/cycling/blob/master/IMG_1178.JPG "Inside the cycle counter box")
 
+The current units have been end of life'd by the manufacturer, hence BCC is looking at options for replacement.
+
 ## The project
 
 - BCC will provide access to an existing cabinet, with working loop and solar panel.
